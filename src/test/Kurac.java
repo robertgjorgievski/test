@@ -13,7 +13,7 @@ public class Kurac {
 		System.out.println("gffgf");
 		System.out.println("eee");
 		System.out.println("deprash tezok upm");
-		System.out.println("zverka");
+		
 		return n;
 		
 	}
