@@ -1,0 +1,30 @@
+package test;
+
+public class Kurac {
+
+	int z = 5;
+
+	Kurac() {
+		
+	}
+	
+	public static int returnIntegerForString( String kurcipalci){
+		int n = Integer.parseInt(kurcipalci);
+		
+		return n;
+		
+	}
+	
+	
+
+	public static void main(String[] args) {
+
+		String c = "5";
+		int r = returnIntegerForString(c);
+		System.out.println(c);
+		
+		
+
+	}
+
+}
