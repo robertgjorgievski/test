@@ -12,7 +12,7 @@ public class Kurac {
 		int n = Integer.parseInt(kurcipalci);
 		System.out.println("gffgf");
 		System.out.println("eee");
-		System.out.println("deprash tezok upm");
+		
 		
 		return n;
 		
