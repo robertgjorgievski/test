@@ -11,6 +11,7 @@ public class Kurac {
 	public static int returnIntegerForString( String kurcipalci){
 		int n = Integer.parseInt(kurcipalci);
 		System.out.println("gffgf");
+		System.out.println("eee");
 		return n;
 		
 	}
